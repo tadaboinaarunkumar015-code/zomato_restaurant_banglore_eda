@@ -1,11 +1,11 @@
-Zomato Restaurant Data Analysis 🍽️📊
-Project Overview
+**Zomato Restaurant Data Analysis 🍽️📊**
+**Project Overview**
 
 This project performs Exploratory Data Analysis (EDA) on the Zomato restaurant dataset to uncover insights about restaurant trends, customer preferences, ratings, online ordering, pricing, and popular cuisines.
 
 The analysis was carried out using Python, Pandas, Matplotlib, and Seaborn.
 
-Objectives
+**Objectives**
 Understand restaurant distribution across locations
 Analyze restaurant ratings and votes
 Explore the impact of online ordering and table booking
@@ -13,7 +13,8 @@ Identify popular cuisines and restaurant types
 Detect pricing trends
 Perform data cleaning and preprocessing
 Create meaningful visualizations
-Technologies Used
+
+**Technologies Used**
 Python
 Pandas
 NumPy
@@ -22,10 +23,10 @@ Seaborn
 Jupyter Notebook
 Dataset
 
-Dataset Source:
+**Dataset Source:**
 Kaggle Zomato Dataset
 
-Dataset includes:
+**Dataset includes:**
 
 Restaurant Name
 Location
